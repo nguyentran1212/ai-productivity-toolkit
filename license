@@ -1,0 +1,27 @@
+# 🚀 AI Productivity Toolkit
+
+A lightweight AI-inspired web app that helps users:
+- Summarize text
+- Rewrite content
+- Generate ideas instantly
+
+## ✨ Features
+- Clean and simple UI
+- Fast client-side processing
+- Easy to extend with real AI APIs (OpenAI, etc.)
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Future Improvements
+- Integrate real AI APIs
+- Add authentication
+- Export results
+
+## 🤝 Contributing
+Pull requests are welcome!
+
+## 📄 License
+MIT
